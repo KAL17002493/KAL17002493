@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MVVM Framework in WPF**
 
-- 👨‍💻 All of my projects are available at [N/A](N/A)
+- 👨‍💻 All of my projects are available at https://github.com/KAL17002493?tab=repositories
 
 - 📫 How to reach me **ricards.kalnarajs2014@gmail.com**
 
