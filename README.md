@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MVVM Framework in WPF**
 
-- 👨‍💻 My online portfolio available at https://bright-phoenix-0833b3.netlify.app/
+- 👨‍💻 My online portfolio https://bright-phoenix-0833b3.netlify.app/
 
 - 📫 How to reach me **ricards.kalnarajs2014@gmail.com**
 
