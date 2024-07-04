@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Richard</h1>
 <h3 align="center">Passionate software engineer</h3>
 
-- 🌱 I’m currently learning **MVVM Framework in WPF**
+- 🌱 I’m currently learning: **MVVM Framework in WPF**
 
-- 👨‍💻 My online portfolio https://bright-phoenix-0833b3.netlify.app/
+- 👨‍💻 My online portfolio: https://bright-phoenix-0833b3.netlify.app/
 
-- 📫 Contacnt me **ricards.kalnarajs2014@gmail.com**
+- 📫 How to reach me: **ricards.kalnarajs2014@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
