@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Richard</h1>
-<h3 align="center">Passionate software engineer</h3>.
+<h3 align="center">Passionate software engineer</h3>
 
 - 🌱 I’m currently learning: **MVVM Framework in WPF**
 
